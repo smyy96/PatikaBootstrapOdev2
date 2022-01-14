@@ -1,5 +1,5 @@
 # Patika Bootstrap Ödev 2
-[Eğitimin Linki.](https://app.patika.dev/moduller/bootstrapp)
+[Eğitimin Linki.](https://app.patika.dev/moduller/bootstrap)
 ```
 Patika platformundaki bootstrap dersinin ikinci ödevi.
 Instagram'ın arayüzünü tasarlama.
